@@ -109,4 +109,14 @@
 		"url":"exp.mole-pool.net",
 		"notify":""
 	}
+	{
+		"name":"NEVERMINING.ORG",
+		"stats":"http://exp.nevermining.org/api/stats",
+		"blocks":"http://exp.nevermining.org/api/blocks",
+		"payments":"http://exp.nevermining.org/api/payments",
+		"accounts":"http://exp.nevermining.org/api/accounts",
+		"miners":"http://exp.nevermining.org/api/miners",
+		"url":"exp.nevermining.org",
+		"notify":"support@nevermining.org"
+	}
 ]
