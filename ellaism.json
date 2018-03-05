@@ -100,14 +100,14 @@
 		"notify":""
 	},
 	{
-	  "name":"2MINERS",
-	  "stats":"https://ella.2miners.com/api/stats",
-	  "blocks":"https://ella.2miners.com/api/blocks",
-	  "payments":"https://ella.2miners.com/api/payments",
-	  "accounts":"https://ella.2miners.com/api/accounts",
-	  "miners":"https://ella.2miners.com/api/miners",
-	  "url":"2miners.com",
-	  "notify":"support@2miners.com"
+		"name":"2MINERS",
+		"stats":"https://ella.2miners.com/api/stats",
+		"blocks":"https://ella.2miners.com/api/blocks",
+		"payments":"https://ella.2miners.com/api/payments",
+		"accounts":"https://ella.2miners.com/api/accounts",
+		"miners":"https://ella.2miners.com/api/miners",
+		"url":"2miners.com",
+		"notify":"support@2miners.com"
 	},
 	{
        		"name":"EPOOL.IO",
@@ -168,5 +168,15 @@
  		"miners":"http://ella.mole-pool.net/api/miners",
  		"url":"ella.mole-pool.net",
  		"notify":""
+	},
+	{
+ 		"name":"NEVERMINING.ORG",
+ 		"stats":"http://ella.nevermining.org/api/stats",
+ 		"blocks":"http://ella.nevermining.org/api/blocks",
+ 		"payments":"http://ella.nevermining.org/api/payments",
+ 		"accounts":"http://ella.nevermining.org/api/accounts",
+ 		"miners":"http://ella.nevermining.org/api/miners",
+ 		"url":"ella.nevermining.org",
+ 		"notify":"support@nevermining.org"
 	}
 ]
