@@ -108,7 +108,7 @@
 		"miners":"http://exp.mole-pool.net/api/miners",
 		"url":"exp.mole-pool.net",
 		"notify":""
-	}
+	},
 	{
 		"name":"NEVERMINING.ORG",
 		"stats":"http://exp.nevermining.org/api/stats",
